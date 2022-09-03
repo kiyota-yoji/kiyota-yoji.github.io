@@ -5,3 +5,4 @@ Code4Lib JAPAN Conference 2022のチュートリアルで作ったWebサイト�
 
 - ページを公開しました。
   - 箇条書きのテスト
+- [動画](/event.html)をアップロードしました。
